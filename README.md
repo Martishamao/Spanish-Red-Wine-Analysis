@@ -20,7 +20,7 @@ Spanish Wine Quality Dataset from https://www.kaggle.com/datasets/fedesoriano/sp
 
 ## Recommendations:
 
-> In Conclusion, I would not recommend my model to predict the rating of the Spanish Red wine. I believe a better hypertuning strategy could be conducted to increase the accuracy of the test data to match the training data.
+- In Conclusion, I would not recommend my model to predict the rating of the Spanish Red wine. I believe a better hypertuning strategy could be conducted to increase the accuracy of the test data to match the training data.
 
 
 ### For further information
