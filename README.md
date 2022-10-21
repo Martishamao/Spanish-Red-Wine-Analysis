@@ -1,5 +1,5 @@
 # Spanish-Red-Wine-Analysis
-##Classification Analysis on predicting Spanish Red Wine Ratings by analyzing over +2000 red wines.
+## Classification Analysis on predicting Spanish Red Wine Ratings by analyzing over +2000 red wines.
 
 **Author**: Martisha Owens
 
