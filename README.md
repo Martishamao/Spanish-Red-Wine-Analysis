@@ -17,6 +17,7 @@ Spanish Wine Quality Dataset from https://www.kaggle.com/datasets/fedesoriano/sp
   - Dropped Country due to the model focusing stricting on Spain, number of reviews since it is not a defining feature of the actual wine itself, and winery to prevent overfitting.
   - Used the median Simple Imputer to fill in the missing data for Year, Body, and Acidity. We also used the most frequent Simple Imputer for wine type.
 - Based on the heatmap below, ratings had the highest correlation with price at a moderate correlation coefficient of +0.51. It then had some positive correlation with body at +0.21 and negative correlation with year at -0.26.
+
 ![sample image](https://github.com/Martishamao/Spanish-Red-Wine-Analysis/blob/main/Wine%20Heatmap.png)
 
 ## Results
