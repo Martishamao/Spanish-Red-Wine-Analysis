@@ -1,15 +1,16 @@
 # Spanish-Red-Wine-Analysis
-## Classification Analysis on predicting Spanish Red Wine Ratings by analyzing over +2000 red wines.
+## Classification Analysis on predicting Spanish Red Wine Ratings by analyzing over +2000 Red Wine data.
 
 **Author**: Martisha Owens
 
 ### Business problem:
 
-Help predict the proper ratings of various red wines based on year, country, region, price, type of wine variety, body, and acidity..
+Help predict the ratings of various red wines based on year, region, country, price, type of wine variety, body, and acidity.
 
 
 ### Data:
-Spanish Wine Quality Dataset from https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset.
+Spanish Wine Quality Dataset. fedesoriano. (April 2022). 
+https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
 
 ## Methods
@@ -34,7 +35,7 @@ Spanish Wine Quality Dataset from https://www.kaggle.com/datasets/fedesoriano/sp
 
 - In Conclusion, I would not recommend my model to predict the rating of the Spanish Red wine. I believe a better hypertuning strategy could be conducted to increase the accuracy of the test data to match the training data.
 
-![sample_image](https://github.com/Martishamao/Spanish-Red-Wine-Analysis/blob/main/PCA%20Confusion%20Matrix.png)
+![sample_image](https://github.com/Martishamao/Spanish-Red-Wine-Analysis/blob/main/Wine%20Confusion%20Matrix.png)
 ### For further information
 
 
